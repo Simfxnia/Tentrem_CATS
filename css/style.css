@@ -146,6 +146,7 @@ h2 {
 }
 
 a.tbl-biru {
+    text-decoration: none;
     background: #3f72af;
     border-radius: 20px;
     margin-top: 20px;
@@ -161,6 +162,7 @@ a.tbl-biru:hover {
 }
 
 a.tbl-pink {
+    text-decoration: none;
     background: #fc5185;
     border-radius: 20px;
     margin-top: 20px;
